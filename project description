@@ -1,0 +1,4 @@
+3.	Family Member Recognition for Blind Person							(Oct 2021 – Jan 2022)
+•	Developed a computer vision application to assist visually impaired individuals in recognizing family members and friends through real-time facial recognition and descriptive voice feedback.
+•	Leveraged OpenCV and Convolutional Neural Networks (CNN) to detect emotions and provide contextual voice descriptions, such as "This is your mother, she appears to be a bit sad today."
+•	Enhanced accessibility and quality of life by implementing voice commands to deliver accurate, real-time information about familiar people. 
